@@ -108,8 +108,7 @@
     <section id="gallery">
         <h2>Галерея</h2>
         <div>
-            <img src="https://aboutdogs.com.ua/wp-content/uploads/2022/10/pexels-koolshooters-7683642.jpg" alt="Померанский шпиц 1">
-            <img src="https://zoobonus.ua/storage/breeds/images/big/5f410caWQYwCkuRjlvfUG5F0I57x2Q1iKUeIwR3e.jpg" alt="Померанский шпиц 2">
+            <img src="https://aboutdogs.com.ua/wp-content/uploads/2022/10/pexels-koolshooters-7683642.jpg" alt="Померанский шпиц 1">            
             <img src="https://cdn.e-pet.com.ua/uploaded/6F5BEC4A-765D-44F2-B44B-8E463CA30991-pQcHVtI1.jpg" alt="Померанский шпиц 3">
             <img src="https://lh5.googleusercontent.com/proxy/Fy3HhdwcjDER-EwJf7VZwezX5ZzB6Ay-8iJ9P2ryR44FpuAAgnwgL9uwKkbUfrapxdI6wXdml-5Y2aP2KrXMmO3NkdUIudY1NPktuP9jCn0bkpSqsxa3DOJM6Qg" alt="Померанский шпиц 4">
             <img src="https://luxpom.com/wp-content/uploads/2016/04/1-14.jpg" alt="Померанский шпиц 5">
