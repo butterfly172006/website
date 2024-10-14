@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Померанський шпіц</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background-color: #ffcc00;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #f4a261;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        #gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        #gallery img {
+            width: 200px;
+            height: 200px;
+            margin: 10px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Померанський шпіц</h1>
+    </header>
+
+    <nav>
+        <a href="#home">Головна</a>
+        <a href="#contacts">Контакти</a>
+        <a href="#gallery">Галерея</a>
+    </nav>
+
+    <section id="home">
+        <h2>Вітаємооооо Вас на нашому сайті!</h2>
+        <p>Померанський шпіц - це маленький декоративний собака з яскравим, грайливим характером і густою пухнастою вовною. Вони неймовірно доброзичливі, енергійні та розумні, що робить їх ідеальними домашніми вихованцями.</p>
+        <p>Ці маленькі "леви" легко знаходять спільну мову з дітьми та дорослими, і люблять бути у центрі уваги. Вони вимагають трохи догляду за вовною, але готові дарувати масу любові та радості в обмін на увагу та турботу.</p>
+        <p>Назва походить від назви історичної області Німеччини — Померанії. Це найменший представник шпіців.
+
+За часів правління королеви Вікторії, в 1870 році, шпіци з Померанії потрапляють в Англію, де починається робота зі створення карликової форми, поліпшенню «одежинки» помаранчі й додання йому загальної вишуканості. Краса найкращих представників англійських і американських шпіців справила великий вплив на заводчиків усього світу, і поступово шпіци в інших країнах видозмінюються, підтягуючись до еталонного померанського шпіца.
+
+Зовнішній вигляд
+
+Померанський шпіц забарвлення парті-колор
+Морда і голова в цілому нагадують лисячу, череп злегка округлий. Вуха невеликі, розставлені не дуже широко. Тіло коротке, з глибокими грудьми та округлими ребрами. У цієї породи собак випадає дуже мало вовни. У померанського шпіца зустрічається десять забарвлень: чорний, чорно-підпалий, шоколадний, рудий з черню (соболиний), помаранчевий, кремовий, блакитний, блакитно-підпалий, білий і двоколірний. Висота в холці від 18 до 22 см, вага 1,4-3,5 кг.
+
+Характер та темперамент
+Порода має неймовірно різносторонній характер. Вони надзвичайно добродушні, добрі та відкриті тварини, але при цьому померанський шпіц дуже смілива та відважна собака. Порода енергійна та потребує постійної активності. Шпіци неймовірно прив'язуються до своїх господарів.
+
+Загалом, характер померанського шпіца ідеально підійде активним людям, які багато рухаються, мають можливість часто вигулювати песика і приділяти йому багато уваги.</p>
+
+    </section>
+
+    <section id="contacts">
+        <h2>Контакти</h2>
+        <p>Якщо у вас виникли питання або ви хочете дізнатися більше про померанського шпіца, зв'яжіться з нами:</p>
+        <p>Email: <a href="mailto:pomeranian@example.com">pomeranian@example.com</a></p>
+        <p>Телефон: +(380) 23-458-96-52</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Галерея</h2>
+        <div>
+            <img src="https://aboutdogs.com.ua/wp-content/uploads/2022/10/pexels-koolshooters-7683642.jpg" alt="Померанский шпиц 1">
+            <img src="https://zoobonus.ua/storage/breeds/images/big/5f410caWQYwCkuRjlvfUG5F0I57x2Q1iKUeIwR3e.jpg" alt="Померанский шпиц 2">
+            <img src="https://cdn.e-pet.com.ua/uploaded/6F5BEC4A-765D-44F2-B44B-8E463CA30991-pQcHVtI1.jpg" alt="Померанский шпиц 3">
+            <img src="https://lh5.googleusercontent.com/proxy/Fy3HhdwcjDER-EwJf7VZwezX5ZzB6Ay-8iJ9P2ryR44FpuAAgnwgL9uwKkbUfrapxdI6wXdml-5Y2aP2KrXMmO3NkdUIudY1NPktuP9jCn0bkpSqsxa3DOJM6Qg" alt="Померанский шпиц 4">
+            <img src="https://luxpom.com/wp-content/uploads/2016/04/1-14.jpg" alt="Померанский шпиц 5">
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Сайт о померанських шпіцах. Усі права захищені.</p>
+    </footer>
+</body>
+
+</html>
